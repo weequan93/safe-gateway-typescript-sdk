@@ -55,6 +55,14 @@ Each endpoint consists of:
 
 To add a new endpoint, follow the pattern set by the existing endpoints.
 
+## Deriw Release
+
+```shell
+yarn build
+git commit -m ""
+git push
+```
+
 ## Eslint & prettier
 
 This command will run before every commit:
